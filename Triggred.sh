@@ -77,7 +77,7 @@ toilet -f big -F gay Gaming
 toilet -f big -F gay Official
 fi
 
-fi [ $bro = 4 ] || [ $bro = 4 ]
+if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
 toilet -f big -F gay Ariel 69
