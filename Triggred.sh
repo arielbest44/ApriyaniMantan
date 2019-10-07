@@ -11,12 +11,10 @@ echo
 toilet -f big -F gay TOOLS
 toilet -f big -F gay TRIGGRED
 echo $green"=====================================
-AUTHOR : ARIEL DAN APRIYANI
-YOUTUBE : AG OFFICIAL
+AUTHOR : ARIEL 
+YOUTUBE : Ariel 69 Channel
 ===================================="
-toilet -f big -F gay Maaf
-toilet -f big -F gay Tools
-toilet -f big -F gay Cuma 3
+toilet -f big -F gay Subscribe
 echo
 sleep 2
 echo $yellow"Silahkan Pilih Nomer Berapa :"
@@ -79,7 +77,7 @@ toilet -f big -F gay Gaming
 toilet -f big -F gay Official
 fi
 
-fi [ $bro = 4 ] || [ $bro = 4
+fi [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
 toilet -f big -F gay Ariel 69
